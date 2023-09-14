@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "username": "user1",
+    "password": "hashed_password_1"
+  },
+  {
+    "id": "2",
+    "username": "user2",
+    "password": "hashed_password_2"
+  },
+  {
+    "id": "3",
+    "username": "user3",
+    "password": "$2b$10$DiYltapSIoXux92Drs/.H.QSbQ3vfgfH9Ts9/amsgXTLXCyDUzq/."
+  },
+  {
+    "id": "4",
+    "username": "user4",
+    "password": "$2b$10$XVTdCRoZEdsGdg82.8aL5OWACMee07FDeOAxqPX6bv.7DQiNmBsDS"
+  },
+  {
+    "id": "5",
+    "username": "user5",
+    "password": "$2b$10$lmgAYY2nRdMH6vPRCxyfm.NyGm4WpBZm8pKfOCzaWl8Gwrh2bAYZa"
+  },
+  {
+    "id": "6",
+    "username": "user10",
+    "password": "$2b$10$AZaD9NKXDxODEh0BnNMftOf/Cc/ffehnTlex70VHwtn1.p3VLTbjq"
+  },
+  {
+    "id": "7",
+    "username": "user50",
+    "password": "$2b$10$1PUdzt/BPgOuL3QQBgAKlu/1zqr4mu0NnQBBrgtEyLxlSZNSPJEy6"
+  },
+  {
+    "id": "8",
+    "username": "user50w",
+    "password": "$2b$10$.mJrqoWMdoKrfrQ4SzCjI.qsA4znNSImiKniUezV1SfTRHeWyrM9m"
+  },
+  {
+    "id": "9",
+    "username": "user5000",
+    "password": "$2b$10$ISXM7iawGn9SDpqPZ4.K/.zHciUT40HAKbZw9V4JYWa2dJZcqX0bW"
+  }
+]
